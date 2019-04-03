@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[tc001 executed]]>
+    </line>
+    <line>
+      <![CDATA[tc002 executed]]>
+    </line>
+    <line>
+      <![CDATA[tc003 executed]]>
+    </line>
+    <line>
+      <![CDATA[tc004 executed]]>
+    </line>
+    <line>
+      <![CDATA[tc005 executed]]>
+    </line>
+    <line>
+      <![CDATA[tc006 executed]]>
+    </line>
+    <line>
+      <![CDATA[tc007 executed]]>
+    </line>
+    <line>
+      <![CDATA[tc008 executed]]>
+    </line>
+    <line>
+      <![CDATA[tc009 executed]]>
+    </line>
+  </reporter-output>
+  <suite name="default" duration-ms="78" started-at="2019-04-02T14:15:20Z" finished-at="2019-04-02T14:15:21Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="78" started-at="2019-04-02T14:15:20Z" finished-at="2019-04-02T14:15:21Z">
+      <class name="p2.Class3">
+        <test-method status="PASS" signature="tc009()[pri:0, instance:p2.Class3@cb5822]" name="tc009" duration-ms="0" started-at="2019-04-02T14:15:21Z" finished-at="2019-04-02T14:15:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc009 executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc009 -->
+        <test-method status="PASS" signature="tc007()[pri:0, instance:p2.Class3@cb5822]" name="tc007" duration-ms="0" started-at="2019-04-02T14:15:21Z" finished-at="2019-04-02T14:15:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc007 executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc007 -->
+        <test-method status="PASS" signature="tc008()[pri:0, instance:p2.Class3@cb5822]" name="tc008" duration-ms="0" started-at="2019-04-02T14:15:21Z" finished-at="2019-04-02T14:15:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc008 executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc008 -->
+      </class> <!-- p2.Class3 -->
+      <class name="p1.Class2">
+        <test-method status="PASS" signature="tc004()[pri:0, instance:p1.Class2@18be83e4]" name="tc004" duration-ms="0" started-at="2019-04-02T14:15:21Z" finished-at="2019-04-02T14:15:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc004 executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc004 -->
+        <test-method status="PASS" signature="tc005()[pri:0, instance:p1.Class2@18be83e4]" name="tc005" duration-ms="0" started-at="2019-04-02T14:15:21Z" finished-at="2019-04-02T14:15:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc005 executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc005 -->
+        <test-method status="PASS" signature="tc006()[pri:0, instance:p1.Class2@18be83e4]" name="tc006" duration-ms="0" started-at="2019-04-02T14:15:21Z" finished-at="2019-04-02T14:15:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc006 executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc006 -->
+      </class> <!-- p1.Class2 -->
+      <class name="p1.Class1">
+        <test-method status="PASS" signature="tc002()[pri:0, instance:p1.Class1@8bd1b6a]" name="tc002" duration-ms="16" started-at="2019-04-02T14:15:21Z" finished-at="2019-04-02T14:15:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc002 executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:p1.Class1@8bd1b6a]" name="tc001" duration-ms="0" started-at="2019-04-02T14:15:21Z" finished-at="2019-04-02T14:15:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc001 executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="tc003()[pri:0, instance:p1.Class1@8bd1b6a]" name="tc003" duration-ms="0" started-at="2019-04-02T14:15:21Z" finished-at="2019-04-02T14:15:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc003 executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+      </class> <!-- p1.Class1 -->
+    </test> <!-- test1 -->
+  </suite> <!-- default -->
+</testng-results>
